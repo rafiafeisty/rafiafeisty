@@ -1,7 +1,7 @@
 [![MasterHead](https://img.pikbest.com/ai/illus_our/20230427/94d394f84245320543292336f110505e.jpg!bw700)
 <h1 align="center">Hi 👋, I'm Rafia Habib</h1>
 <h3 align="center">I am a full Stack Developer</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/236x/26/a2/b1/26a2b1fd58a5eeecb171ef68d74925f6.jpg"/>
+<img align="right" alt="coding" width="450" height="500" src="https://i.pinimg.com/236x/26/a2/b1/26a2b1fd58a5eeecb171ef68d74925f6.jpg"/>
 
 - 💬 Ask me about **MERN**
 

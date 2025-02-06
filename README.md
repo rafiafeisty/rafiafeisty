@@ -3,7 +3,7 @@
 <h3 align="center">I am a full Stack Developer</h3>
 <img align="right" alt="coding" width="450" height="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
-- 🔭 I’m currently working on **DSA Learning**
+- 🔭 I’m currently working on **Assembly Language and AI**
 
 - 💬 Ask me about **MERN**
 
